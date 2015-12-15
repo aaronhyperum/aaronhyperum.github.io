@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Aaron, but my fascination with aliases when I was younger caused much of my online presence to be attributed to the name 'Hyperum'. Here, I won't post very often but include detailed accounts when I do. This site will also be more personal, but my innermost thoughts be kept to myself, of course. Please enjoy!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+You can find my Github profile along with my code repositories at
+{% include icon-github.html username="aaronhyperum" %}.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+My Twitter account with the same name is located at
+{% include icon-twitter.html username="aaronhyperum" %}.
