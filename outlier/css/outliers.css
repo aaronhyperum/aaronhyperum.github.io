@@ -30,7 +30,11 @@ section {
 
     color: #F1F1F1;
 
-    /*min-height: 110%;*/
+    min-height: 110%;
+}
+
+section.ignore {
+    min-height: 0%;
 }
 
 section.sidebar {
