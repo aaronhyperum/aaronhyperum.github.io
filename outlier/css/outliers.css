@@ -65,6 +65,18 @@ section.house {
     padding: 0px 0px;
 }
 
+section.school {
+    justify-content: flex-start;
+
+    background-image: url('../res/school.jpg');
+    background-color: #F1F1F1;
+    background-size: auto;
+
+    height: 110%;
+
+    padding: 0px 0px;
+}
+
 section.graduation {
     justify-content: flex-start;
 
