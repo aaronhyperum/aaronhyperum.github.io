@@ -56,6 +56,18 @@ section.header {
 section.house {
     justify-content: flex-start;
 
+    background-image: url('../res/penang.jpg');
+    background-color: #F1F1F1;
+    background-size: 400px auto;
+
+    height: 110%;
+
+    padding: 0px 0px;
+}
+
+section.house {
+    justify-content: flex-start;
+
     background-image: url('../res/house.jpg');
     background-color: #F1F1F1;
     background-size: 400px auto;
