@@ -58,7 +58,7 @@ section.penang {
 
     background-image: url('../res/penang.jpg');
     background-color: #F1F1F1;
-    background-size: cover;
+    background-size: auto;
 
     height: 110%;
 
